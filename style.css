@@ -140,6 +140,10 @@ form label {
 
 form input {
     margin-bottom: 20px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
 }
 
 form input[type="submit"] {
