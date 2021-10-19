@@ -132,3 +132,19 @@ h2 {
 .card p {
     padding: 15px 20px;
 }
+
+form label {
+    font-size: 20px;
+    font-family: Cambria;
+}
+
+form input {
+    margin-bottom: 20px;
+}
+
+form input[type="submit"] {
+    background-color: #152331;
+    color: white;
+    font-size: 25px;
+    padding: 10px 15px;
+}
